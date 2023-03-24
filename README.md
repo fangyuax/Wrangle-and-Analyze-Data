@@ -1,5 +1,5 @@
 # Wrangle-and-Analyze-Data
-> Using Python and its libraries, I gathered data from a variety of sources and in a variety of formats, assess its quality and tidiness, then clean it.By using Python and its libraries, I documented my wrangling efforts in a Jupyter Notebook,analyzing and Visualizing data of Twitter account that rates people's dogs
+> Using Python and its libraries, I gathered data from a variety of sources and in a variety of formats, assess its quality and tidiness, then clean it. By using Python and its libraries, I documented my wrangling efforts in a Jupyter Notebook,analyzing and Visualizing data of Twitter account that rates people's dogs
 
 ## Summary of Findings
 
